@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23876546.svg)](https://doi.org/10.5281/zenodo.23876546)
 # AMIDER データ提出ガイド
 
 分野横断型研究データカタログ [AMIDER](https://amider.rois.ac.jp/) へデータを登録する方向けのガイドです。
